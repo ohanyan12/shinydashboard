@@ -1,0 +1,618 @@
+Company,Invested Capital,Revenue Per Share,Revenue_Assets,Total Assets,Total Assets Per Share,Total Equity,Total Net Income,Total Revenue,Sector
+Barnes & Noble,639.2,74.43,2,1932.9,36.94,574.3,22,3865.8,Consumer Discretionary
+Bed Bath & Beyond,4210.9,81.65,1.8,6846,45.76,2719.3,685.1,12322.8,Consumer Discretionary
+Best Buy,6074,165.63,2.8,13856,58.24,4709,1228,38796.8,Consumer Discretionary
+Big Lots,757,105.45,3.2,1607.7,32.6,650.6,152.8,5144.64,Consumer Discretionary
+Booz Allen Hamilton Holding,2236.9,45.59,1.7,3373.1,26.49,573.6,252.5,5734.27,Information Technology
+CarMax,14782.1,96.56,1,16279.4,99.02,3108.6,627,16279.4,Consumer Discretionary
+Casey's General Stores,2114.3,223.98,2.5,3020.1,90.11,1190.6,177.5,7550.25,Consumer Staples
+CHS,694,19.2,2.2,1109,8.6,609.2,91.2,2439.8,Consumer Discretionary
+Constellation Brands,16129.3,836.52,0.4,18602.4,2122.52,6891.2,1535.1,7440.96,Consumer Staples
+Dick's Sporting Goods,1929.5,90.79,2,4058.3,46.51,1929.5,287.4,8116.6,Consumer Discretionary
+Dillard's,2530.7,335.12,1.7,3888.1,203.02,1717.4,169.2,6609.77,Consumer Staples
+Dollar General,5406.3,76.74,1.9,11672.3,40.74,5406.3,1251.1,22177.37,Consumer Staples
+Dollar Tree,11711.3,91.5,1.3,15701.6,69.34,5389.5,896.2,20412.08,Consumer Discretionary
+Foot Locker,2710,57.77,2,3840,28.57,2710,664,7680,Consumer Discretionary
+GameStop,3069.1,100.02,1.7,4975.9,57.82,2254.1,353.2,8459.03,Consumer Discretionary
+Gap,4217,73.16,2,7610,35.88,2904,676,15220,Consumer Discretionary
+General Mills,13809.6,26.1,0.7,21812.6,36.45,4327.9,1657.5,15268.82,Consumer Staples
+Home Depot,27934,75.7,2.2,42966,34.38,4333,7957,94525.2,Consumer Discretionary
+J.C. Penney,5956,43.99,1.3,9314,32.65,1354,1,12108.2,Consumer Discretionary
+J.M. Smucker,12248.7,65.79,0.5,15639.7,139.19,6850.2,592.3,7819.85,Consumer Staples
+Kohl's,7972,101.59,1.4,13574,73.8,5177,556,19003.6,Consumer Discretionary
+Kroger,6698,120.25,3.2,36505,38.06,6698,1975,116816,Consumer Staples
+Lansing Trade Group,336.4,0,0.8,390.5,0,-21.4,154.7,312.4,Information Technology
+Lowe's,22133,72.5,1.9,34408,38.37,6434,3075,65375.2,Consumer Discretionary
+Macy's,11158,85.68,1.3,19851,65.98,4323,619,25806.3,Consumer Discretionary
+McKesson,19640,882.16,3.3,60969,270.91,11095,5070,201197.7,Health Care
+Medtronic,83730,21.37,0.3,99816,71.81,50294,4028,29944.8,Health Care
+Michaels Cos.,1055.9,34.84,2.4,2147.6,14.4,-1698.4,378.2,5154.24,Retailing
+NetApp,4773,31.8,0.6,9493,54.69,2780,509,5695.8,Information Technology
+Nordstrom,3644,120.59,1.9,7858,64.21,870,354,14930.2,Consumer Discretionary
+Nvidia,8541,16.04,0.7,9841,22.84,5762,1666,6888.7,Technology Hardware & Equipment
+Oracle,111769,12.64,0.3,134991,45.21,53860,9335,40497.3,Information Technology
+Patterson,2500.4,66.52,1.6,3520.8,41.87,1441.7,170.9,5633.28,Health Care
+PVH,8020.9,101.52,0.7,11067.9,136.98,4804.5,549,7747.53,Consumer Discretionary
+Ralph Lauren,3887.8,116.62,1.2,5652,99.08,3299.6,-99.3,6782.4,Consumer Discretionary
+Rite Aid,7877.4,31.43,2.8,11593.8,11.09,614.1,4.1,32462.64,Health Care
+Ross Stores,3144.5,32.78,2.4,5309.4,13.53,2748,1117.7,12742.56,Consumer Discretionary
+salesforce.com CRM,9508.5,15.57,0.5,17584.9,32.62,7500.1,179.6,8792.45,Information Technology
+Sears Holdings,-251,963.05,2.4,9362,407.27,-3824,-2221,22468.8,Consumer Discretionary
+Sprint Nextel,18808,53.29,0.4,85123,136.04,18808,-1206,34049.2,Telecommunications Services
+Supervalu,1639,54.83,3.5,3580,15.73,376,650,12530,Consumer Staples
+Target,25717,116.65,1.7,40262,67.58,12957,2737,68445.4,Consumer Discretionary
+Tech Data,3532.9,849.96,3.3,7931.9,256.98,2169.9,195.1,26175.27,Information Technology
+TJX,6738.2,50.21,2.6,12883.8,19.49,4510.6,2298.2,33497.88,Consumer Discretionary
+Wal-Mart Stores,117168,320.86,2.4,198825,131.3,77798,13643,477180,Consumer Staples
+Google,156471,0,0.6,197295,0,152502,12662,118377,Information Technology
+Aetna,,,,55151,,15580,1904,0,Health Care
+CVR Energy,918.8,383.08,1.6,3806.7,243.51,918.8,234.4,6090.72,Energy
+Mylan,28028.3,25.12,0.3,35806.3,75.55,13307.6,696,10741.89,Health Care
+United Continental Holdings,22074,120.26,0.9,42326,134.89,8806,2131,38093.4,Industrials
+Yum China Holdings,2782,19.43,1.7,4263,11.59,2782,403,7247.1,Business Services
+Kellogg,10827,47.35,0.8,16350,59.91,2212,1269,13080,Consumer Staples
+Reinsurance Group of America,,,,60514.8,,9569.5,1822.2,0,Financials
+Walt Disney,66606,36.64,0.6,95789,63.66,41315,8980,57473.4,Consumer Discretionary
+Bank of New York Mellon Corp.,,,,371758,,37709,4090,0,Financials
+Motorola Mobility Holdings,323.6,45.36,1.6,459.7,28.97,314.9,51.5,735.52,Information Technology
+Avnet,6961.4,137.69,1.8,9699.6,76.58,5182.1,525.3,17459.28,Information Technology
+DISH Network,6937.4,84.32,0.5,29773.8,174.45,6937.4,2098.7,14886.9,Consumer Discretionary
+HollyFrontier,7869.8,99.06,1.3,10692.2,74.32,5370.8,805.4,13899.86,Energy
+Amazon.com,52452,448.72,1.4,131310,331.27,27709,3033,183834,Consumer Discretionary
+Hormel Foods,5185.9,33.84,1.3,6975.9,25.75,4935.9,846.7,9068.67,Consumer Staples
+Cliffs Natural Resources,1859.9,7.9,0.8,2953.4,10.01,-444.3,367,2362.72,Materials
+Tenet Healthcare,14790,285.99,0.8,23385,348.71,-147,-704,18708,Health Care
+Bank of America Corp.,,,,2281234,,244823,18232,0,Financials
+TreeHouse Foods,4809.1,129.66,1.1,5779.3,118.81,2263.3,-286.2,6357.23,Food & Staples Retailing
+MGM Resorts International,20521.7,24.63,0.4,29159.2,66.66,7612.7,1960.3,11663.68,Consumer Discretionary
+Icahn Enterprises,,,,31801,,5106,2430,0,Financials
+O'Reilly Automotive,3631.4,113.61,1.2,7571.9,95.82,653,1133.8,9086.28,Consumer Discretionary
+McDonald's,26268.4,27.95,0.7,33803.7,41.4,-3268,5192.3,23662.59,Consumer Discretionary
+Newell Rubbermaid,24697.1,30.8,0.4,33135.5,69.22,14144.7,2748.8,13254.2,Consumer Discretionary
+Penske Automotive Group,8320.2,608.11,2,10540.6,299.71,2395.2,613.3,21081.2,Consumer Discretionary
+ConAgra Foods,6987.2,17.84,0.8,10096.3,23.01,3990.8,639.3,8077.04,Consumer Staples
+Halliburton,19264,23.84,0.8,25085,29,8322,-463,20068,Energy
+Manpower,3722.4,353.4,2.4,8883.6,149.25,2774.9,545.4,21320.64,Industrials
+Deere,49602.6,92.2,0.5,65786.3,203.97,9557.3,2159.1,32893.15,Industrials
+Harris,6958,53.62,0.6,10090,91.69,2928,553,6054,Information Technology
+AGCO,4743.1,125.18,1,7971.7,120.14,3029.6,186.4,7971.7,Industrials
+Domtar,3613,99.43,1,5212,100.49,2483,-258,5212,Materials
+Huntsman,4918,41.82,0.8,10244,51.25,2620,636,8195.2,Materials
+Eaton,25004,45.65,0.6,32623,72.99,17253,2985,19573.8,Industrials
+FMC Technologies,17242.9,0,0.5,28263.7,0,13387.9,113.3,14131.85,Energy
+Marathon Petroleum,26979,162.24,1.5,49047,105.58,14033,3432,73570.5,Energy
+Staples,6411,28.43,1.8,10172,15.85,5376,-1497,18309.6,Consumer Discretionary
+Plains All American Pipeline,20878,61.48,1,25351,59.44,10958,701,25351,Energy
+Nike,16209,32.69,1.5,23259,22.13,12407,4240,34888.5,Consumer Discretionary
+R.R. Donnelley & Sons,1892.1,130.6,1.8,3904.5,73.48,-217.6,-34.4,7028.1,Industrials
+Sempra Energy,32082,44.81,0.2,50454,201.72,12670,256,10090.8,Utilities
+Arconic,11699,30.14,0.7,18718,43.53,4910,-74,13102.6,Information Technology
+ARRIS Group ARRS,3168.6,34.94,0.9,7624.3,40.27,3168.6,92,6861.87,Telecommunications Services
+CC Media Holdings,9279,523.7,0.5,12260.4,1040.47,-11370.2,-393.9,6130.2,Industrials
+Micron Technology,28565,19.55,0.6,35336,33.99,18621,5089,21201.6,Information Technology
+Lear,6111,335.51,1.7,11945.9,195.82,4150.5,1313.4,20308.03,Industrials
+Oneok,14666.8,58.34,0.7,16845.9,80.73,5527.9,387.8,11792.13,Utilities
+PepsiCo,50326,44.55,0.8,79804,55.96,11045,4857,63843.2,Consumer Staples
+S&P Global,4280,23.48,0.6,9425,36.5,711,1496,5655,Business Services
+3M,25512,61.6,0.8,37987,73.92,11563,4858,30389.6,Industrials
+MasterCard,10892,13.32,0.6,21329,22.74,5468,3915,12797.4,Financials
+YRC Worldwide,552.6,149.57,3.1,1585.5,48.49,-353.5,-10.8,4915.05,Industrials
+Texas Instruments,14414,16.97,0.8,17642,20.01,10337,3682,14113.6,Information Technology
+Fluor,4961.3,140.57,2.1,9327.7,67.17,3342.3,191.4,19588.17,Industrials
+Eastman Chemical,11943,65.79,0.6,15999,110.23,5403,1384,9599.4,Materials
+NiSource,13322.3,16.96,0.2,19961.7,69.45,4320.1,128.5,3992.34,Utilities
+Dominion Energy,54466,20.11,0.2,76585,122.35,17142,2999,15317,Energy
+Hertz Global Holdings,16385,162.21,0.4,20058,369.6,1520,327,8023.2,Consumer Discretionary
+Anthem ANTM,46434.7,327.25,1.3,70540,256.38,26502.9,3842.8,91702,Health Care
+Biogen Idec,18551,57.7,0.5,23652.6,111.2,12612.8,2539.1,11826.3,Health Care
+Marriott International,11969,69.51,1,23948,72.71,3731,1372,23948,Consumer Discretionary
+Hanesbrands HBI,4649.7,17.49,0.9,6894.8,18.63,686.2,61.9,6205.32,Consumer Discretionary
+CMS Energy,13734,26.34,0.3,23050,92.24,4441,460,6915,Utilities
+Spirit AeroSystems Holdings SPR,2913.2,58.82,1.3,5267.8,44.37,1801,354.9,6848.14,Industrials
+UnitedHealth Group,,,,139058,,47776,10558,0,Health Care
+Tyson Foods,20744,146.87,1.4,28066,107.74,10541,1774,39292.4,Consumer Staples
+Facebook FB,74347,17.45,0.5,84524,36.27,74347,15934,42262,Telecommunications Services
+W.R. Berkley,,,,24299.9,,5411.3,549.1,0,Financials
+Textron,9559,61.2,0.9,15340,66.12,5647,307,13806,Industrials
+Huntington Ingalls Industries HII,3037,164.84,1.2,6374,141.2,1758,479,7648.8,Industrials
+International Business Machines,64417,84.08,0.6,125356,133.18,17594,5753,75213.6,Information Technology
+Parker Hannifin,11132,90.82,0.8,15489.9,116.95,5261.6,983.4,12391.92,Industrials
+Lam Research,6817.5,49.84,0.7,12122.8,75.39,6817.5,1697.8,8485.96,Information Technology
+General Cable,1214.9,89.09,1.7,2235.3,51.9,129.2,-56.6,3800.01,Industrials
+Archer Daniels Midland,25806,109.1,1.5,39963,71.67,18313,1595,59944.5,Consumer Staples
+Chubb,,,,167022,,51172,3861,0,Financials
+Avon Products,1172.9,16.89,1.5,3697.9,10.93,-725,22,5546.85,Consumer Staples
+Priceline Group PCLN,20781.3,293.43,0.5,25451.3,588.92,11260.6,2340.8,12725.65,Telecommunications Services
+Caesars Entertainment,12138,86.65,0.2,25512,455.63,3225,-375,5102.4,Consumer Discretionary
+Southwest Airlines,14098,45.16,0.8,25110,53.56,10430,3488,20088,Industrials
+Ford Motor,189177,40.22,0.6,257808,66.14,34890,7602,154684.8,Consumer Discretionary
+Progressive,,,,38701.2,,9284.8,1592.2,0,Financials
+Freeport-McMoRan Copper & Gold,21094,12.69,0.4,37302,28.87,7977,1817,14920.8,Materials
+CIT Group,,,,49278.7,,6995,468.2,0,Financials
+Danaher,36880.3,29.97,0.4,46648.6,76.28,26358.2,2492.1,18659.44,Industrials
+Entergy,24646.1,69.1,0.2,46707.1,291.43,7992.5,425.4,9341.42,Utilities
+Cummins,9265,131.54,1.1,18075,116.39,7259,999,19882.5,Industrials
+Caterpillar,48138,77.27,0.6,76962,130.82,13697,754,46177.2,Industrials
+Celgene,22759,16.69,0.4,30141,38.7,6921,2940,12056.4,Health Care
+Hershey,3835.8,49.56,1.4,5553.7,36.62,915.3,783,7775.18,Consumer Staples
+Dana Holding,2812,55.94,1.3,5644,43.79,1013,111,7337.2,Industrials
+Charles Schwab,,,,243274,,15732,2354,0,Financials
+Procter & Gamble,85770,25.49,0.5,120406,47.17,55184,15326,60203,Consumer Staples
+Bristol-Myers Squibb,19703,12.63,0.6,33551,20.4,11741,1007,20130.6,Health Care
+Johnson & Johnson,94741,28.21,0.5,157303,58.05,60160,1300,78651.5,Health Care
+Oshkosh,3138.3,92.26,1.3,5098.9,68.88,2307.4,285.6,6628.57,Industrials
+United Parcel Service,25289,95.53,1.5,45403,65.85,1000,4910,68104.5,Industrials
+Corning,18526,10.94,0.4,27494,29.73,15698,-497,10997.6,Industrials
+Sherwin-Williams,14212.8,183.63,0.8,19958.4,244.6,3692.2,1772.3,15966.72,Consumer Discretionary
+Capital One Financial,,,,365693,,48730,1982,0,Financials
+PG&E Corp.,38349,33.6,0.3,68012,133.37,19220,1660,20403.6,Utilities
+Synnex,4225.3,685.83,2.2,7698.5,309.75,2283.7,301.2,16936.7,Financials
+Xcel Energy,27246,22.51,0.3,43030,84.93,11455,1148,12909,Utilities
+Ameren,15603,28.45,0.2,25945,119.51,7184,523,5189,Utilities
+Murphy Oil,4630.1,17.51,0.2,9860.9,77.6,4620.2,-311.8,1972.18,Energy
+DirecTV,22317,0,0.4,33767,0,9512,1134,13506.8,Consumer Discretionary
+Mosaic,14845.2,23.51,0.4,18633.4,59.14,9617.5,-107.2,7453.36,Materials
+Allegheny Technologies,3280.1,36.47,0.7,5185.4,53.65,1739.4,-91.9,3629.78,Materials
+Centene,,,,21855,,6850,828,0,Health Care
+Sysco,10576.4,109.44,3.1,17756.7,35.09,2381.5,1142.5,55045.77,Consumer Staples
+Travelers Cos.,,,,103483,,23731,2056,0,Financials
+National Oilwell Varco,16806,21.41,0.4,20206,59.23,14094,-237,8082.4,Energy
+Applied Materials,14653,13.85,0.7,19419,18.51,9349,3434,13593.3,Information Technology
+Sonic Automotive,3324.8,486.22,2.6,3818.5,188.16,786.8,93,9928.1,Consumer Discretionary
+Advance Auto Parts,4459.5,132.29,1.1,8482.3,119.71,3415.2,475.5,9330.53,Consumer Discretionary
+Anadarko Petroleum,26385,21.36,0.3,42086,75.48,10696,-456,12625.8,Energy
+Andeavor,17500,300.03,1.2,28573,245.11,9815,1528,34287.6,Energy
+Vistra Energy,10765,20.39,0.4,14600,54.82,6342,-254,5840,Energy
+Berkshire Hathaway,450883,195.28,0.3,702095,566.24,348296,44940,210628.5,Financials
+DaVita,14026.3,70.08,0.6,18948.2,122.08,4690,663.6,11368.92,Health Care
+Air Products & Chemicals,14049,37.72,0.4,18467.2,85.08,10086.2,3000.4,7386.88,Materials
+Marsh & McLennan,12846,27.27,0.7,20429,39.73,7359,1492,14300.3,Financials
+Apple,249727,43.63,0.6,375319,71.43,134047,48351,225191.4,Information Technology
+Broadcom,37833,51.78,0.3,54418,159.78,20285,1692,16325.4,Information Technology
+International Paper,17679,56.55,0.6,33903,88.18,6522,2144,20341.8,Materials
+Automatic Data Processing,5979.4,27.27,0.3,37180,81.9,3977,1733.4,11154,Information Technology
+FirstEnergy,5307,35.06,0.3,42257,105.69,3925,-1724,12677.1,Utilities
+WellCare Health Plans,,,,8364.6,,2416.7,373.7,0,Health Care
+Duke Energy,96181,33.7,0.2,137914,197.25,41739,3059,27582.8,Utilities
+MRC Global,1285,51.31,1.6,2340,32.93,759,50,3744,Energy
+Windstream Holdings WIN,4545,36.35,0.5,11084.3,68.83,-1298.9,-2116.6,5542.15,Telecommunications Services
+Mattel,4380.6,18.26,0.8,6238.5,23.34,1257.5,-1053.8,4990.8,Consumer Discretionary
+Apache,15900,16.92,0.3,21922,57.75,7416,1304,6576.6,Energy
+Hewlett Packard Enterprise,37498,21.32,0.5,61406,45.35,23466,344,30703,Technology Hardware & Equipment
+Zimmer Biomet Holdings,21878.3,39.08,0.3,25964.5,129.68,11735.8,1813.8,7789.35,Health Care
+CBRE Group,6929.8,48.54,1.2,11483.8,39.23,4019.4,691.5,13780.56,Financials
+Ball,10912,31.63,0.6,17169,49.45,3941,374,10301.4,Materials
+Delta Air Lines,13910,56.17,0.8,53292,72.58,13910,3577,42633.6,Industrials
+Weyerhaeuser,15402,9.68,0.4,18059,24.3,8899,582,7223.6,Financials
+Avis Budget Group,13393,104.09,0.5,17699,208.22,573,361,8849.5,Consumer Discretionary
+Wesco International,3505.9,209.73,1.6,4735.5,129.34,2119.7,163.5,7576.8,Industrials
+Builders FirstSource,376.2,72.69,2.3,3006.1,31.06,376.2,38.8,6914.03,Utilities
+Stryker,17188,36.75,0.6,22197,65.56,9966,1020,13318.2,Health Care
+ABM Industries,2553.9,93.74,1.4,3812.6,65.54,1375.7,3.8,5337.64,Business Services
+Owens-Illinois,6091,42.5,0.7,9756,60.36,808,180,6829.2,Materials
+Johnson Controls,34019,32.62,0.6,51884,56.09,20447,1611,31130.4,Consumer Discretionary
+Coca-Cola Enterprises,12346,60.17,0.6,18194,98.96,6685,688,10916.4,Consumer Staples
+Ashland,6225,52.66,0.4,8618,139.22,3406,1,3447.2,Materials
+AutoNation,5073,338.13,2.1,10271.5,161.28,2369.3,434.6,21570.15,Consumer Discretionary
+Express Scripts Holding,34134,165.56,1.8,54255.8,89.77,18119.6,4517.4,97660.44,Health Care
+American Electric Power,41098.9,31.38,0.2,64729.1,131.67,18287,1912.6,12945.82,Utilities
+FedEx,31004,246.06,1.2,48552,198.06,16073,2997,58262.4,Industrials
+Western Digital,24569,67.23,0.6,29860,105.15,11418,397,17916,Information Technology
+Dell Technologies,8212,0,3.8,16414,0,8212,-1672,62373.2,Information Technology
+Anixter International,2706.9,312.58,1.9,4252.2,167.66,1459,109,8079.18,Information Technology
+Kinder Morgan KMI,71479,7.14,0.2,79055,41.16,33636,183,15811,Energy
+Amphenol APH,7532.4,26.59,0.7,10003.9,37.93,3989.8,650.5,7002.73,Telecommunications Services
+Pitney Bowes,4018.5,24.94,0.5,6678.7,46.92,188.6,261.3,3339.35,Industrials
+Marathon Oil,17202,6.38,0.2,22012,29.49,11708,-5723,4402.4,Energy
+DTE Energy,22317,79.08,0.4,33767,211.8,9512,1134,13506.8,Utilities
+XPO Logistics,8084.4,157.93,1.2,12601.6,129.39,3604.4,340.2,15121.92,Transportation
+Quest Diagnostics,8776,72.34,0.7,10503,98.56,4921,772,7352.1,Health Care
+PPG Industries,9704,57.72,0.9,16538,64.71,5558,1591,14884.2,Materials
+Ameriprise Financial,,,,147470,,5998,1480,0,Financials
+Aon,,,,26088,,4583,1226,0,Financials
+Kraft Heinz,97570,43.76,0.2,120232,200.55,66034,10999,24046.4,Consumer Staples
+Enterprise Products Partners,47115.9,20.02,0.5,54418.1,37.25,22547.2,2799.3,27209.05,Energy
+Fidelity National Financial,,,,9151,,4447,771,0,Financials
+Williams,30591,10.79,0.2,46352,62.29,9656,2174,9270.4,Energy
+Adobe Systems,10341.3,14.78,0.5,14535.6,29.43,8459.9,1694,7267.8,Information Technology
+Liberty Global,6805,62.91,0.3,57596.8,240.79,6805,-2778.1,17279.04,Consumer Discretionary
+Abbott Laboratories,58821,15.97,0.4,76250,44.46,30897,477,30500,Health Care
+Boston Scientific,12627,7.58,0.5,19042,15.96,7012,104,9521,Health Care
+Toll Brothers,7751.2,46.54,0.6,9445.2,75.59,4531.2,535.5,5667.12,Utilities
+Franklin Resources,,,,17534,,12620,1696.7,0,Financials
+Rockwell Automation,4507.4,49.51,0.9,7161.7,56.18,2663.6,825.7,6445.53,Industrials
+BB&T Corp.,,,,221642,,26595,2394,0,Financials
+Universal Health Services,9029.5,132.19,1,10761.8,136.65,4989.5,752.3,10761.8,Health Care
+Emerson Electric,13374,24.04,0.8,19589,30.85,8718,1518,15671.2,Industrials
+Amgen,60583,31.08,0.3,79954,108.76,25241,1979,23986.2,Health Care
+Humana,,,,27178,,9842,2448,0,Health Care
+Jacobs Engineering Group,4666.4,92.74,1.4,7380.9,68.3,4428.4,293.7,10333.26,Industrials
+Northrop Grumman,21447,167.72,0.7,34917,226.97,7048,2015,24441.9,Industrials
+Symantec,11673,7.63,0.2,18174,34.48,3487,-106,3634.8,Information Technology
+Western Union,2542.2,15.36,0.6,9231.4,25.67,-491.4,-557.1,5538.84,Financials
+Genuine Parts,6657.2,143.05,1.3,12412.4,108.87,3412.2,616.8,16136.12,Consumer Discretionary
+News Corp.,11168,81.03,0.6,14552,144.87,10789,-738,8731.2,Consumer Discretionary
+Loews,,,,79586,,19204,1164,0,Financials
+Norfolk Southern,26195,37.72,0.3,35711,127.66,16359,5404,10713.3,Industrials
+United Technologies,57095,84.87,0.6,96920,137.47,29610,4552,58152,Industrials
+Intel,95832,13.31,0.5,123249,26.14,69019,9601,61624.5,Information Technology
+Masco,3025,24.02,1.4,5488,17.25,-60,533,7683.2,Industrials
+KBR,1737,29.21,1.1,3674,25.73,1229,434,4041.4,Industrials
+Cisco Systems,99854,9.55,0.4,129818,25.83,66137,9609,51927.2,Information Technology
+LifePoint Health LPNT,5142.2,184.51,1,6286.4,184.36,2242.5,102.4,6286.4,Health Care
+Time Warner,52119,40.4,0.5,69209,89.41,28375,5247,34604.5,Consumer Discretionary
+Fidelity National Information Services,19598,27.91,0.4,24517,75,10835,1319,9806.8,Financials
+Sanmina-SCI,2127.5,113.64,1.8,3847.4,63.66,1647.7,138.8,6925.32,Information Technology
+Newmont Mining,14674,15.77,0.4,20563,44.14,10609,-98,8225.2,Materials
+AT&T,305207,26.16,0.4,444097,72.38,140861,29450,177638.8,Telecommunications Services
+Thermo Fisher Scientific,46421,53.55,0.4,56669,145.08,25413,2225,22667.6,Health Care
+Telephone & Data Systems,6726,62.92,0.5,9295,115.95,4269,153,4647.5,Telecommunications Services
+Spectra Energy,1198,0,0.2,1988.3,0,469,-560.5,397.66,Energy
+CF Industries Holdings,8271,22.38,0.3,13463,72.96,3579,358,4038.9,Materials
+AutoZone,3652.9,497.17,1.2,9259.8,422.79,-1428.4,1280.9,11111.76,Consumer Discretionary
+Coca-Cola,64757,9.19,0.4,87896,22.81,17072,1248,35158.4,Consumer Staples
+Office Depot,3864,22.57,1.6,6323,13.94,2120,181,10116.8,Industrials
+General Motors,129220,96.49,0.7,212482,140.82,35001,-3864,148737.4,Consumer Discretionary
+Ryder System,8244.7,158.36,0.6,11452.2,247.44,2835,790.6,6871.32,Industrials
+Exelon,65439,36.31,0.3,116700,126.38,29857,3770,35010,Utilities
+AmerisourceBergen,5506.5,953.79,4.3,35316.5,219.95,2064.5,364.5,151860.95,Health Care
+Nucor,12534.1,63.66,1.3,15841.3,49.8,8739,1318.7,20593.69,Materials
+Dr Pepper Snapple Group,6930,36.52,0.7,10022,54.72,2451,1076,7015.4,Consumer Staples
+Viacom,17154,37.66,0.6,23698,67.29,6035,1874,14218.8,Consumer Discretionary
+C.H. Robinson Worldwide,2890.7,118.84,3.5,4235.8,33.85,1425.7,504.9,14825.3,Industrials
+Devon Energy,19660,26.62,0.5,30241,57.72,9254,898,15120.5,Energy
+Fifth Third Bancorp,,,,142193,,15034,2194,0,Financials
+Cognizant Technology Solutions,11542,25.3,1,15221,26,10669,1504,15221,Information Technology
+Citigroup,,,,1842465,,181487,-6798,0,Financials
+HCA Holdings,26252,146.27,1.2,36593,122.72,-6806,2216,43911.6,Health Care
+Merck,58746,14.64,0.5,87872,32.07,34336,2394,43936,Health Care
+Olin,6365.7,44.1,0.7,9218.3,64.85,2753.7,549.5,6452.81,Industrials
+World Fuel Services,2606.5,571.03,6,5587.8,94.69,1721.9,-170.2,33526.8,Energy
+AES,22430,20.68,0.3,33112,65.04,2465,-1161,9933.6,Utilities
+Targa Resources,11213.3,41,0.6,14388.6,66.93,6160.3,54,8633.16,Energy
+Reliance Steel & Aluminum,6568.5,137.79,1.3,7751,109.86,4667.1,613.4,10076.3,Materials
+Union Pacific,41800,26.21,0.4,57806,71.32,24856,10712,23122.4,Industrials
+Regions Financial,,,,124294,,15372,1263,0,Financials
+Las Vegas Sands,16133,27.18,0.6,20687,43.65,6493,2806,12412.2,Consumer Discretionary
+American Express,,,,181159,,18227,2736,0,Financials
+Cigna,,,,61753,,13735,2237,0,Health Care
+Buckeye Partners BPL,9501.5,26.07,0.4,10304.7,73.64,4590.9,478.8,4121.88,Energy
+Celanese,6528,43.81,0.6,9538,68.05,2887,843,5722.8,Materials
+Colgate-Palmolive,6517,18.84,1.2,12676,15.45,-60,2024,15211.2,Consumer Staples
+Genworth Financial,,,,105297,,13418,817,0,Financials
+Freddie Mac,,,,2049776,,-86757,5625,0,Financials
+ConocoPhillips,50310,26.36,0.4,73362,59.35,30607,-855,29344.8,Energy
+Allergan,68891.4,47.6,0.1,118341.9,353.36,73821.1,-4125.5,11834.19,Health Care
+Genesis Healthcare,-6.9,161.25,1.1,4787.9,143.67,-1084.2,-579,5266.69,Health Care
+Hewlett-Packard,4411,30.59,1.6,32913,19.34,-3408,2526,52660.8,Information Technology
+Enbridge Energy Partners,9246,11.26,0.2,14828,68.77,1770,245,2965.6,Energy
+American Tower,26446.6,15.77,0.2,33214.3,78.59,6241.5,1238.9,6642.86,Telecommunications Services
+Avery Dennison,1046.2,83.78,1.3,5136.9,65.07,1046.2,281.8,6677.97,Industrials
+SunTrust Banks,,,,205962,,22679,2273,0,Financials
+Pfizer,114778,8.83,0.3,171797,28.86,71308,21308,51539.1,Health Care
+Gilead Sciences,53984,20.1,0.4,70283,54.11,20442,4628,28113.2,Health Care
+Xerox,10773,45.19,0.6,15946,70.2,5256,195,9567.6,Industrials
+Wynn Resorts,10576.5,80.59,0.5,12681.7,162.05,947.8,747.2,6340.85,Consumer Discretionary
+Alcoa,5927,63.29,0.7,17447,94.76,4523,217,12212.9,Materials
+NextEra Energy,63289,36.83,0.2,97827,209.56,28208,5378,19565.4,Utilities
+Kelly Services,1161.7,181.97,2.3,2378.2,80.52,1151.5,71.6,5469.86,Industrials
+SPX,671.5,38.15,0.7,2040.4,54.59,314.7,89.3,1428.28,Industrials
+MetLife,,,,719892,,58676,4010,0,Financials
+Seaboard,4094,22270.27,1.1,5161,19786,3397,247,5677.1,Industrials
+Assurant,,,,31843,,4270.6,519.6,0,Financials
+SAIC,6481,73.6,1.1,8990,65.06,3370,366,9889,Industrials
+Emcor Group,1698.3,148.68,1.9,3965.9,76.71,1673.3,227.2,7535.21,Industrials
+Motorola Solutions,2729,37.97,0.8,8208,48.84,-1742,-155,6566.4,Information Technology
+Boeing,11472,168.97,1,92333,167.05,355,8197,92333,Industrials
+Plains GP Holdings PAGP,11615,267.5,1,26753,272.91,1695,-731,26753,Energy
+Goodyear Tire & Rubber,4865,61.24,0.9,17064,67.96,4603,346,15357.6,Consumer Discretionary
+Group 1 Automotive,4048.9,621.52,2.3,4871.1,272.16,1124.3,213.4,11203.53,Consumer Discretionary
+Valero Energy,21991,210.06,1.9,50158,112.11,21991,4065,95300.2,Energy
+Chevron,186793,74.84,0.6,253806,134.03,148124,9195,152283.6,Energy
+Harley-Davidson,8832.3,32.27,0.6,9972.7,56.98,1844.3,521.8,5983.62,Consumer Discretionary
+Sunoco,6237,289.89,1.4,8344,206.33,2247,149,11681.6,Energy
+Expeditors International of Washington,1991.9,43,2.2,3117,19.37,1991.9,489.3,6857.4,Industrials
+Honeywell International,35158,53.44,0.7,59387,78.29,17276,1655,41570.9,Industrials
+Microsoft,158588,11.92,0.4,241086,31.94,72394,21204,96434.4,Information Technology
+Comcast CMCSA,133162,17.98,0.5,186949,39.76,68606,22714,93474.5,Telecommunications Services
+W.W. Grainger,4032.5,197.71,1.8,5804.3,110.08,1690.1,585.7,10447.74,Industrials
+Campbell Soup,5173,44.08,1,7726,43.16,1637,887,7726,Consumer Staples
+Altria Group,29271,10.08,0.5,43202,22.34,15377,10222,21601,Consumer Staples
+EOG Resources,22670.3,19.51,0.4,29833.1,51.93,16283.3,2582.6,11933.24,Energy
+Autoliv,5376.5,117.79,1.2,8549.9,97,4035.1,427.1,10259.88,Industrials
+CenterPoint Energy,13528,24.96,0.4,22736,59.02,4688,1792,9094.4,Utilities
+Henry Schein,4477.6,79.04,1.6,7811.2,49.54,2811.5,406.3,12497.92,Health Care
+Republic Services,16146.2,43.65,0.5,21147,91.92,7958.8,1278.4,10573.5,Industrials
+PayPal Holdings,16994,11.59,0.3,40774,36.09,15994,1795,12232.2,Business Services
+Timken,2405,45.24,0.9,3402.4,51.24,1442.7,203.4,3062.16,Industrials
+CVS Caremark,64693,178.8,1.9,95131,92.06,37691,6622,180748.9,Consumer Staples
+Agilent Technologies,6842,13.89,0.5,8426,26.18,4831,684,4213,Health Care
+Dean Foods,1569.1,115.56,3.1,2503.8,37.12,655.9,61.6,7761.78,Consumer Staples
+Omnicom Group,7539.8,66,0.6,24931.2,107.73,2615.1,1088.4,14958.72,Consumer Discretionary
+CSX,26514,12.98,0.3,35739,40.66,14705,5471,10721.7,Industrials
+Southern,74960,23.23,0.2,111005,111.96,24167,926,22201,Utilities
+Clorox,2737,51.31,1.3,4573,39.28,542,701,5944.9,Consumer Staples
+Ecolab,14941.2,54.22,0.7,19962.4,78.21,7618.5,1508.4,13973.68,Materials
+Liberty Interactive QVCA,13522,26.63,0.6,17237,44.22,6819,1208,10342.2,Telecommunications Services
+Live Nation Entertainment,3481.2,77.11,1.4,7504.3,55.97,1181.2,-6,10506.02,Consumer Discretionary
+WEC Energy Group,20494.7,24.28,0.2,31590.5,100.29,9461.4,1203.7,6318.1,Energy
+Energy Transfer Equity,42888,51.39,0.5,86246,109.37,-1196,954,43123,Energy
+Baxter International,9124,19.57,0.6,17111,31.7,9124,717,10266.6,Health Care
+BorgWarner,5905.1,46.34,1,9787.6,46.29,3716.8,439.9,9787.6,Consumer Discretionary
+NCR,3710,59.36,0.9,7654,69.73,719,232,6888.6,Information Technology
+Philip Morris International,22253,18.55,0.7,42968,27.73,-12086,6035,30077.6,Consumer Staples
+UGI,7702.3,35.54,0.5,11582.2,67.24,3163.3,436.6,5791.1,Utilities
+Kindred Healthcare,3284.9,78.63,1.2,5232.7,68.19,123.3,-698.4,6279.24,Health Care
+Visa,45601,10.14,0.3,67977,37.55,32760,6699,20393.1,Financials
+General Dynamics,15417,122.8,0.9,35046,138.95,11435,2912,31541.4,Industrials
+KeyCorp,,,,137698,,13998,1296,0,Financials
+Lockheed Martin,13580,211.93,1.1,46521,193.14,-683,2002,51173.1,Industrials
+Gannett,1372.4,38.39,1.2,2570,31.35,1017.4,6.9,3084,Consumer Discretionary
+AECOM Technology,7840.2,138.02,1.3,14397,109.16,3996.1,339.4,18716.1,Industrials
+Owens & Minor,1916.2,201.46,2.8,3376.3,73,1015.5,72.8,9453.64,Health Care
+Morgan Stanley,,,,851733,,68871,6111,0,Financials
+AK Steel Holding,1894.1,25.17,1.4,4296.1,17.78,-216,6.2,6014.54,Materials
+Steel Dynamics,5733.5,41.06,1.4,6855.7,29.51,3351.6,812.7,9597.98,Materials
+Tesla,4339.9,112.15,0.4,28655.4,273.31,4237.2,-1961.4,11462.16,Energy
+Visteon,1030,111.85,1.4,2304,81.92,637,176,3225.6,Consumer Discretionary
+Alphabet GOOGL,156471,373,0.6,197295,663.85,152502,12662,118377,Telecommunications Services
+Goldman Sachs Group,,,,916776,,70390,4286,0,Financials
+Whirlpool,9416,292.55,1.1,20038,275.83,4198,350,22041.8,Consumer Discretionary
+Principal Financial Group,,,,253941.2,,12849.3,2310.4,0,Financials
+CDW CDW,4218.4,114.72,2.2,6956.6,52.53,982.9,523,15304.52,Information Technology
+Owens Corning,6572,57.42,0.7,8632,77.64,4162,289,6042.4,Industrials
+Exxon Mobil,229909,57.68,0.7,348691,82.31,187688,19710,244083.7,Energy
+Jones Financial,1229.1,4.02,0.1,1710.1,36.43,469.8,-101.5,171.01,Financials
+Praxair,15018,39.92,0.6,20436,71.33,6018,1247,12261.6,Materials
+Kimberly-Clark,8054,51.56,1.2,15151,42.79,629,2278,18181.2,Consumer Staples
+PNC Financial Services Group,,,,380768,,47513,5338,0,Financials
+NRG Energy,-346,45.06,0.5,23318,98.85,-346,-2153,11659,Utilities
+NII Holdings,612.4,18.05,0.8,1105.1,22.94,-43.3,-301,884.08,Telecommunications Services
+Paccar,16929.9,56.64,0.8,23440.2,68.23,8050.5,1675.2,18752.16,Industrials
+CenturyLink,61217,32.36,0.2,75611,138.58,23491,1389,15122.2,Telecommunications Services
+TravelCenters of America,885.5,167.36,3.7,1617.9,44.74,565.9,9.3,5986.23,Consumer Staples
+CBS,12140,38.06,0.7,20843,57.94,1978,357,14590.1,Consumer Discretionary
+Erie Insurance Group,,,,1665.9,,857.3,197,0,Financials
+Core-Mark Holding,1088.7,470.12,8.8,1782.5,53.42,555.2,33.5,15686,Consumer Staples
+Qualcomm,52639,15.09,0.3,65486,44.34,30746,2466,19645.8,Information Technology
+Verizon Communications,160191,30.92,0.5,257143,63.08,43096,30101,128571.5,Telecommunications Services
+Community Health Systems,13146,190.21,0.9,17450,216.19,-767,-2459,15705,Health Care
+Estee Lauder,7956,62.54,1,11568,61.19,4384,1249,11568,Consumer Staples
+BlackRock,,,,220217,,31825,4970,0,Financials
+Sealed Air,3410.3,25.66,0.8,5280.3,30.36,152.3,814.9,4224.24,Materials
+PPL,32036,10.94,0.2,41479,60.93,10761,1128,8295.8,Utilities
+State Street Corp.,,,,238425,,19121,2177,0,Financials
+J.P. Morgan Chase & Co.,,,,2533600,,229625,24441,0,Financials
+Commercial Metals,2225.5,50.87,1.5,2975.1,33.12,1400.8,46.3,4462.65,Materials
+Aramark ARMK,7727.5,67.4,1.3,11006.2,50.8,2459.1,373.9,14308.06,Information Technology
+Becton Dickinson,31816,60.88,0.3,37734,189.97,12948,1100,11320.2,Health Care
+Advanced Micro Devices,2006,6.72,1.5,3540,4.46,611,43,5310,Information Technology
+Insight Enterprises,1156.6,217.11,2.5,2685.7,86.98,843.5,90.7,6714.25,Consumer Discretionary
+Aflac,,,,137217,,24598,4604,0,Financials
+VF,6643.2,34.52,1.2,9958.5,29.1,3719.9,614.9,11950.2,Consumer Discretionary
+Global Partners,1475.4,457.63,3.8,2320.2,119.03,391,58.8,8816.76,Energy
+Arrow Electronics,8241.4,303.23,1.6,16462.8,186.18,4951.5,402,26340.48,Information Technology
+Prudential Financial,,,,831921,,54069,7863,0,Financials
+Stanley Black & Decker,11378.8,83.77,0.7,19079.9,125.38,8297.1,1226,13355.93,Consumer Discretionary
+Navistar International,478,416.13,1.4,6135,297.89,-4578,30,8589,Industrials
+Hess,18027,19.99,0.2,23112,84.5,11051,-4074,4622.4,Energy
+Rockwell Collins,13198,52.41,0.4,17997,138.25,6043,705,7198.8,Industrials
+Costco Wholesale,17437,295.88,3.5,36347,83.35,10778,2679,127214.5,Consumer Staples
+Occidental Petroleum,30400,17.41,0.3,42026,55.13,20572,1311,12607.8,Energy
+Yum Brands,3470,16.71,1.1,5311,15.1,-6334,1340,5842.1,Consumer Discretionary
+Frontier Communications,19900,131.24,0.4,24884,357.78,2274,-1804,9953.6,Telecommunications Services
+Edison International,26187,37.83,0.2,52580,161.47,11671,689,10516,Utilities
+Molina Healthcare,,,,8471,,1337,-512,0,Health Care
+Quintiles IMS Holdings,18334,78.82,0.4,22742,184.06,8109,1309,9096.8,Information Technology
+Host Hotels & Resorts,,,,11693,,6973,564,0,Consumer Discretionary
+Starbucks,9382.7,16.31,1.6,14365.6,10.46,5450.1,2884.7,22984.96,Consumer Discretionary
+Charter Communications,109315,275.49,0.3,146623,971.42,39084,9895,43986.9,Consumer Discretionary
+Jabil,2353.5,121.92,1.7,11096,70.97,2353.5,129.1,18863.2,Technology Hardware & Equipment
+Darden Restaurants,3038.3,56.89,1.3,5504.2,43.67,2101.7,479.1,7155.46,Consumer Discretionary
+Illinois Tool Works,12913,51.2,0.9,16780,60.02,4585,1687,15102,Industrials
+Arthur J. Gallagher,7238.2,34.72,0.5,12897.4,72.71,4105.2,463.1,6448.7,Financials
+Robert Half International,1106.1,47.88,2.8,1867.5,16.98,1105.3,290.6,5229,Business Services
+Calpine,14393,24.38,0.5,16453,45.83,2988,-339,8226.5,Utilities
+Discover Financial Services,,,,100087,,10329,2099,0,Financials
+Lincoln National,,,,281763,,17322,2079,0,Financials
+Eli Lilly,25239.3,23.46,0.5,44981,46.13,11592.2,-204.1,22490.5,Health Care
+Meritor,1306,46.73,1.2,2782,38.84,268,324,3338.4,Industrials
+U.S. Bancorp,,,,462040,,43621,6218,0,Financials
+SLM,,,,21779.6,,2074.3,288.9,0,Financials
+Cardinal Health,17203,454.35,3.2,40112,140.22,6808,1288,128358.4,Health Care
+Expedia EXPE,8771.4,83.15,0.5,18515.6,153.05,4522.3,378,9257.8,Telecommunications Services
+Ascena Retail Group,2359.1,38.99,1.7,3871.5,22.7,821,-1067.3,6581.55,Retailing
+Public Service Enterprise Group,27457,18.01,0.2,42716,84.68,13847,1574,8543.2,Consumer Discretionary
+Wells Fargo,,,,1951757,,181578,22183,0,Financials
+Hartford Financial Services Group,,,,225260,,13494,-3131,0,Financials
+Allstate,,,,112422,,20805,3189,0,Financials
+Bemis,2764.6,44.43,1.1,3699.9,40.63,1201.2,94,4069.89,Materials
+Fannie Mae,,,,3345529,,-139965,2463,0,Financials
+Mohawk Industries,9822.7,153.75,0.8,12094.9,195.93,7059.2,971.6,9675.92,Industrials
+Envision Healthcare Holdings,12842.5,67.48,0.5,16572.6,143.03,6527.1,-228,8286.3,Health Care
+Unum Group,,,,64013.1,,9574.9,994.2,0,Financials
+Intercontinental Exchange,23024,9.98,0.1,78264,133.83,16924,2514,7826.4,Financials
+Momentive Specialty Chemicals,374.2,2.59,0.3,459.4,8.55,374.2,-88.1,137.82,Health Care
+General Electric,198848,14.03,0.3,377945,43.42,64263,-5786,113383.5,Industrials
+Crown Holdings,5944,65.08,0.8,10663,79.79,601,323,8530.4,Materials
+Terex,2206.8,43.28,1.3,3462.5,34.34,1222,128.7,4501.25,Industrials
+Monsanto,14539,33.46,0.7,21333,48.76,6438,2260,14933.1,Materials
+NuStar Energy,6128.1,22.91,0.3,6535.2,82.55,2480.1,148,1960.56,Energy
+Tenneco,2137,196.28,1.9,4842,102.48,696,207,9199.8,Industrials
+L3 Technologies,8413,123.77,0.8,12729,164.58,5083,677,10183.2,Technology Hardware & Equipment
+Dover,7951,56.85,0.7,10657.7,77.38,4383.2,811.7,7460.39,Industrials
+United States Steel,6023,70.69,1.2,9862,56.91,3320,387,11834.4,Materials
+Raytheon,15013,87.23,0.8,30860,106.2,9963,2024,24688,Industrials
+Consolidated Edison,32024,39.49,0.3,48111,157.88,15418,1525,14433.3,Utilities
+eBay,18078,9.5,0.4,25981,25.79,8063,-1016,10392.4,Information Technology
+Interpublic Group,3573.5,20.08,0.6,12695.2,32.35,2201,579,7617.12,Consumer Discretionary
+Chesapeake Energy,7806,10.54,0.8,12425,13.79,-496,949,9940,Energy
+Laboratory Corp. of America,13526,102.43,0.6,16568,162.53,6830,1268.2,9940.8,Health Care
+Pioneer Natural Resources PXD,14006,32.31,0.3,17003,100.7,11274,833,5100.9,Energy
+Cincinnati Financial,,,,21843,,8243,1045,0,Financials
+First American Financial,,,,9573.2,,3480,423,0,Financials
+M&T Bank Corp.,,,,118593.5,,15019.3,1408.3,0,Financials
+Markel,,,,32805,,9504.1,395.3,0,Financials
+Raymond James Financial,,,,34883.5,,5581.7,636.2,0,Financials
+Simon Property Group,,,,32257.6,,3643.1,1948,0,Financials
+Activision Blizzard,13852,11.2,0.4,18668,29.79,9462,273,7467.2,Information Technology
+MetroPCS Communications,50878,138.47,0.6,70563,240.65,22559,4536,42337.8,Telecommunications Services
+Liberty Media,11465,72.4,0.2,11802,479.25,5669,255,2360.4,Media
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
+,,,,,,,,0,
